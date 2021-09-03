@@ -244,6 +244,11 @@
             "name": "Kan",
             "id":"223.205.78.74",
             "keys":"MRB:AlertNet"
+        },
+        {
+            "name": "Kan",
+            "id":"154.202.2.251",
+            "keys":"MRB:Hellona"
         }
         
         
